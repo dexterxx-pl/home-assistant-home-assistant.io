@@ -15,9 +15,11 @@
     "plugs_switches"
   ],
   "platforms": [
+    "binary_sensor",
     "climate",
     "infrared",
     "light",
+    "number",
     "radio_frequency",
     "remote",
     "select",

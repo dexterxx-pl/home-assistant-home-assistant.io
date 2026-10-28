@@ -12,7 +12,9 @@
     "energy.ev_charging"
   ],
   "platforms": [
-    "sensor"
+    "binary_sensor",
+    "sensor",
+    "switch"
   ],
   "discovery": [
     "bluetooth"
